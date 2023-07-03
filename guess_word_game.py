@@ -3,7 +3,7 @@ import os
 def clear(): return os.system('clear')
 
 
-words_array = ['apple', 'mango', 'blueberry']
+words_array = ['apple', 'mango', 'blueberry','pineapple','cherry','orange']
 random_word = random.choice(words_array)
 print("the random word generated is: ", random_word)
 
