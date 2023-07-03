@@ -1,6 +1,6 @@
 import random
 import os
-def clear(): return os.system('cls')
+def clear(): return os.system('clear')
 
 
 words_array = ['apple', 'mango', 'blueberry']
